@@ -1,0 +1,13 @@
+{
+  "Name": "patty",
+  "UniqueId": "c0e210e5-0303-4a23-aa17-76aaf39c431d",
+  "Description": "An arm-based bartender",
+  "StartupRules": ["Manual", "Robot"],
+  "Language": "javascript",
+  "BroadcastMode": "verbose",
+  "TimeoutInSeconds": 300,
+  "CleanupOnCancel": false,
+  "WriteToLog": false,
+  "Parameters": {}
+}
+
