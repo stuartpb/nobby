@@ -14,8 +14,11 @@
    viewBox="0 0 127 71.437502"
    version="1.1"
    id="svg8"
-   sodipodi:docname="seat2.svg"
-   inkscape:version="0.92.2 2405546, 2018-03-11">
+   sodipodi:docname="seat1.svg"
+   inkscape:version="0.92.4 5da689c313, 2019-01-14"
+   inkscape:export-filename="/home/stuart/workspaces/misty/patty/seat1.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96">
   <defs
      id="defs2" />
   <sodipodi:namedview
@@ -26,8 +29,8 @@
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
      inkscape:zoom="1.4"
-     inkscape:cx="409.27767"
-     inkscape:cy="91.870462"
+     inkscape:cx="274.3866"
+     inkscape:cy="89.013319"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -45,7 +48,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -75,6 +78,6 @@
          id="tspan18"
          x="102.30536"
          y="282.6369"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Roboto;-inkscape-font-specification:Roboto;text-align:center;text-anchor:middle;fill:#ffffff;stroke-width:1.53445923">2</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Roboto;-inkscape-font-specification:Roboto;text-align:center;text-anchor:middle;fill:#ffffff;stroke-width:1.53445923">X</tspan></text>
   </g>
 </svg>
