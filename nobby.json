@@ -1,5 +1,5 @@
 {
-     "Name": "patty",
+     "Name": "nobby",
      "UniqueId" : "b2f19f85-a051-43b1-b5a7-137be57b7413",
      "Description": "An arm-based bartender",
      "StartupRules": ["Manual", "Robot"],
